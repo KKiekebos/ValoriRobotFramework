@@ -4,9 +4,9 @@ This project contains a few robot framework tests that check UI flows on the [te
 ## How to run
 In order to run the tests, a few thins need to be in stalled.
 
-[Robot Framework](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#toc-entry-227)
-[Selenium library](https://github.com/robotframework/SeleniumLibrary)
-[Firefox](https://www.mozilla.org/nl/firefox/new/) (though you can change the browser in the settings at the top of the tests file)
+- [Robot Framework](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#toc-entry-227)
+- [Selenium library](https://github.com/robotframework/SeleniumLibrary)
+- [Firefox](https://www.mozilla.org/nl/firefox/new/) (though you can change the browser in the settings at the top of the tests file)
 
 And, if you want to be able to automatically rerun failed tests x number of times, 
 [RetryFailed Listener](https://docs.robotframework.org/docs/flaky_tests#retryfailed-listener)
